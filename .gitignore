@@ -1,0 +1,15 @@
+# Data and database files
+/data/*.parquet
+/data/*.db
+/data/raw/*.csv
+
+# Reports
+/reports/*
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
